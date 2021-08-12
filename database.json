@@ -1,0 +1,49 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "category": "sport",
+      "enteringPrice": 5000
+    },
+    {
+      "id": 2,
+      "category": "food",
+      "enteringPrice": 7000
+    },
+    {
+      "id": 3,
+      "category": "dance",
+      "enteringPrice": 8500
+    },
+    {
+      "id": 4,
+      "category": "sport",
+      "enteringPrice": 1200
+    },
+    {
+      "id": 5,
+      "category": "food",
+      "enteringPrice": 14000
+    },
+    {
+      "id": 6,
+      "category": "dance",
+      "enteringPrice": 5000
+    },
+    {
+      "id": 7,
+      "category": "sport",
+      "enteringPrice": 1200
+    },
+    {
+      "id": 8,
+      "category": "food",
+      "enteringPrice": 14000
+    },
+    {
+      "id": 9,
+      "category": "dance",
+      "enteringPrice": 5000
+    }
+  ]
+}
